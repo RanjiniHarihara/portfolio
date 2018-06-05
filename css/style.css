@@ -174,7 +174,7 @@ hr {
 	padding: 100px 0;
 	text-align: content;
 	color: #fff;
-	background: url(../img/portfolio/background4.jpeg) no-repeat center top;
+	background: url(../img/portfolio/pexels-photo-939331.jpeg) no-repeat center top;
 	background-color: #7bc3d1;
     opacity:0.9;
 	-webkit-background-size: cover;
@@ -674,7 +674,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro .intro-text {
 	max-width: 75%;
-    float:left;
+    float:right;
     margin-top: -100px;
     
 }
